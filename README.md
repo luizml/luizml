@@ -2,7 +2,7 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Atualmente cursando Curso Superior de Tecnologia em Sistemas para Internet (EAD) - Unisul - Universidade do Sul de Santa Catarina.
-- 🌱 Atualmente sou vigilante em transição de carreira para área de Tecnologia.
+- 🌱 Sou vigilante em transição de carreira para área de Tecnologia.
 - 📫 Moro no Rio Grande do Sul - Porto Alegre.
 
 - Tecnologias e Ferramentas
