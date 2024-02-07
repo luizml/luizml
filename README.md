@@ -1,4 +1,4 @@
-# Olá, me chamo luiz Machado Lopes ! 
+# Olá, me chamo Luiz Machado Lopes ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Atualmente cursando Curso Superior de Tecnologia em Sistemas para Internet (EAD) - Unisul - Universidade do Sul de Santa Catarina.
